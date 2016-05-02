@@ -1,0 +1,47 @@
+Vn.
+
+Les equations differentielles du second ordre sont encore integrables,
+si le ooefficient du dernier terme est identiquement egal ὰ zero; mais les
+comminus, qu’ on en tire, ne sont que des eas speciaux d’ autres cas beau-
+coup plus generaux, que je vais maintenant considerer.
+
+La forme de ces equations laisse prevoir, qu’il suffira de connaitre une
+valeur speciale, excepte zero, qui leur satisfait pour en deduire l'integrale
+complette. Si p. ex. P est une telle valeur speciale de y ‚ qui satisfait εὶ
+l'equation (1) , la substitution de y = Psndx domiera une transformee li-
+neaire du premier ordre en u , qui sera integrable par les methodes connueS.
+Toute la difficulte etant ainsi reduite ἐι chercher des integrales particuli'ereS,
+nous irons nous en occuper maintenant et chercherons ἐι determiner les con-
+ditions, qui doivent exister pour que cette integrale soit une fonction alge-
+brique et entiere de ,τ .
+
+F aisons pour cela dans (⁴)
+y=x³-1—-A1.z‘'·¹ . . . . †A„1.z·-{»—A„
+
+Comme la substitution doit donner un resultat identiquement =o, on en
+tirera un nombre m÷2 d’equations entre les m, A, , A² . . . . A„ dont le
+nombre est vra-kt . Le coe‘fficient de ‚2⁴¹²ss egale ἐι zero donne pour de-
+
+terminet m
+
+Ξ-Ήφςψ φςψφςεο - ’ ······ (⁴3)
+
+En comparant cette equation avec (2) on voit que
+
+ηι--εε-Ι
+
+11 suffit evidemment pour que la substitution proposee reussisse‚ que m
+soit un nombre entier positis et de plus que l’equation de conditition‚ qu'on
+obtient apres l’elimination des m quantites A ι ..... Α,,ι entre les m -1-2!
+equations restantes», soit identiquement nulle.
+
+Essayons maintenant dans (6) la substitution
+z=x¹⁸÷B1ff⁶¹ ...... †B„„,.z⁴-{—B„
+on trouvera pour determiner n
+
+πέ3.2ξὲ.φζ- ἕξ-Ωφζ-Ι-φιεο ...... (14)
+
+et dela
+
+ἰε-4 -ε
+

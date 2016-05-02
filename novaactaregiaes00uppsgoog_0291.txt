@@ -1,0 +1,39 @@
+E·(u÷1)÷'-*-{-3=0·
+
+Or ·γ ayant par l’equation (8) deux valeurs differenteS, nous obtien-
+drons par substitution dans (9) ces deux autres cas d’integrabilite
+
+III. Soit Ὺ = — σι
+
+ 
+
+L’equation (9) donnera ἐι cause de (4) et (5) et (7)
+12--23-
+IV. En ·prenant
+
+(740⁶)(A-1)†B÷1=0
+
+ee qui donne
+
+7=—oe——-.-..
+
+A — 1
+et substituant cette valeur dans (8), ἐι cause de (4), (5) et· (7) on obtiendra
+ce dernier cas d'integrabilite de l’equation (6), qu'il m'a reussi de de-
+eouvnr
+
+A= 1 ÷<n-1)(B÷1)
+23÷m÷4
+
+§4
+
+L'equation (6) est encore integrable dens le cas de μ -- 1 , parce que
+alors elle est homogene. Mais comme μ = 1 donne n= 1 et α -.-. οο, nous
+voyons que notre methode d'integration seroit en defaut et qu'il faut alors
+integi-er l'equatiou (3) d’une autre maniere. Or dans le cas de n=1 l'e-
+quation (3) devient,
+
+En y sesant
+
+ce qui donne
+

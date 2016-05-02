@@ -1,0 +1,50 @@
+323
+
+designe par F le coeficient ainsi determine de la perte totale pour six
+echauffemeuts‚ on aura
+
+pour 16 Tab. X . . . . Γ, = 0,1479.
+,, xl. . . . F„ = 0,1259.
+
+‚ XII . . . Fm= 0,4106
+
+XIII . . . Fxm= 0,2417
+
+XIV . Fm= 0,2328
+
+Chacun de F„ et F„ ne surpasse donc pas beaucoup la moitie de chacun
+de Fu„ et Fm et le quart de Fm. ll ne faut pas oublier que l'intensite
+initiale est plus grande dans le tableau XI et plus petite dans le tableau X
+qu'elle n’est dans aucune des quatre autres tableaux et que par consequent
+les coefficients des pertes totales ne sont pas proportionnels aux intensites
+initiales,
+
+Enfin j’ai etabli une serie plus petite d’experiences pour examiner
+quelle influence les temperatores plus hautes exercent dans des 661166116-
+menits et des refroidissemeuts en comparaison avec les plus basses,
+
+Tab. XV. Incensite' initiale: 198,e⁷ M. 6.
+
+. 19¹,3s. 0,0367.
+
+. ¹85,57 0‚0305.
+. 181A ο. 0‚0222.
+. swan. o,0250.
+
+ 
+
+Dans les experiences 1 et 3 les echauffements se faisaient de la maniere
+que l’aimant etait introduit dans l’appareil, quand le thermometre yenserme
+marquait 100⁰. Cette temperature ayant ete conservee durant 4 minuteS,
+la flamme de la lampe a alcohol fut diminuee afin de faire descendre le plus
+tot possible la temperature a pres de 90⁰. Des lors la flamme fut augmentee
+de sorte que 16 thermometre s'elevait presque dans un moment a 100⁰, ou
+je l'ai fait rester encore 4 minutes et ainsi de suite. Le thermometre ayant
+reste pour la cinquieme fois pendant les 4 minutes 61000, l’aimant fut retire
+et mis a se refroidir parfaitement. Dans chacune (163 experiences 2 et 4
+163 echauffements etaient uniformes et d’un nombre ega} a ceux des uzo 1 et 3³
+avec cette difference seulement que chaque resroidissement se faisait enti-
+erement en sortant l’aimant de l'appareil. Cependant, s'il faut evaluer quel-
+que difference‚ dans l'eflet des differentes methodes d’echauffement, les ex-
+pressions pour cette perte de magnetisme, qui ete amenee par des 66116(ιί-
+

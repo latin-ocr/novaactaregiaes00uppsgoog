@@ -1,0 +1,41 @@
+ 
+
+DE FUNCTIONE QUADAM TRANSCENDENTE.
+
+AUCTORE
+
+cnnlsvnuvo Pnlnnnlco LINDMAN,
+1
+
+merotz annuemus .
+
+ 
+
+Geometrae jam diu in functiones, quas vocant transcendenteS, omni studio
+incubuerunt, in qua re, ut fere semper, praeivit viamque munivit nutum,
+qui primus theoriam analyticam functionum exponentialium cett. exposuit.
+Post Illum multi functionibus transcendentibus operam dederunt et valores
+aliquot hai-um functionum, a quibus aliae multae pendeant, in tabulas rede—
+gerunt. Si sanctie, de qua mentionem movere nunc volo, ob eandem ca-
+usam attentione digna sit, id judicio regiae Societatis subjicio.
+
+. 1.
+Functio, de qua agitur, haec εἰέκ
+
+Ηφ) =· [ΖΞ cot ax dx ........ (1).
+
+Primo jam intuitu patet, constantem a omnium valorum capacem esse ab
+a—-o usque ad a=ss2, his limitibus exclusiS, neque discontinuitati obno—
+xiam esse, nisi est a=o vel ss2· Praeterea sine ullo negotio perspicitur,
+has aequationes recte se habere
+
+H(-a)=—H(a) ......... (2)
+
+s} Cot fix dx = (YJJH (ξιτ-ἓ) ....... (3),
+
+ubi necesse est, sita sit constans οιβ intra limites o et ὲ π .
+
+18
+
+ 
+

@@ -1,0 +1,50 @@
+2¹77
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+z Ρέξ- 1 —p²=-.
+00²S2n ²z(1÷p²)}F(xli—÷zp² oeSine. z)
+qui peut encore etre simplifiee en sesant
+-- Z
+Μ 1 ÷p² :q ⁰
+La differentiation donne
+dq zp dp dz
+
+=<1÷p²)-2²²‘'s1ss50³' ’
+au moyen de quoi nous aurons
+dq=oe²Sins².zsz(q‚ oeSins.z)
+et en ¹ft'mant
+oeSine.z=t
+dq=tth(q, t) ......... (25)
+
+Si p. ex. a=1, εει-900 et F(q, t) est fonction de t seul, l’equation
+(24) devient
+
+ἐξ = (Ξέζ -1— 1)3F(a?ss.ffi ....... (26)
+
+Cette equation determine la courbe plane, donnee par la condition, que
+le rayon de courbure soit une fonction donnee du rayon vecteur. L’equation
+(26) est, comme nous voyons, integrable‚ quelle que soit cette fonction ·),
+puisque l’equation (25) donnera alors
+
+q= Const†stdt F(t)
+mais ee n'est pas le seul eas d'integrabilite de cette equation.
+
+ 
+
+⁶) Ce resultat a ete obtinue par mon ami sz· Mnus-ran avant moi; mais je ne connais pas, εἰ sa
+solution coincide avec la mienne, ou non. Je ne veux pourtant pas deroget ὲ la priorite, qui lui ap·
+partient dans ce cas lix.
+
+37
+

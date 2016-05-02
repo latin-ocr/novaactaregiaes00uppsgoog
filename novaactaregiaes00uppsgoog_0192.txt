@@ -1,0 +1,52 @@
+, 1¹76
+
+la meme. Cepcndant‚ pour rendre plus exacte cette comparaison des deux
+donnees‚ la temperature du sol et la serenite du ciel, il faut qu’on consi-
+dere non seulement la moyenne absolue du 31013, mais aussi sa grandem·
+relative au mois precedent: ainsi le mois de Juin 1838 devrait, a raison de
+sa serenite singuliere‚ avoir une temperature moyenne excedante‚ ce qui
+n’a pas lieu, mais si l'on observe combien la temperature de ce mois ex·
+cede celle du mois precedent, on voit que cet excedant est ici plus grand
+que pour chacun des autres 333. D’ailleurs il faudrait aussi que les obser·
+vations geothermometriques embrassent la surface meme de la terre, par ce
+
+que autrement les phencmenes meteoriques de l'air et les phenomenes ther-
+miques de la terre ne devielment pas simultaneS.
+
+Quant aux variations annuelles de l’etat du ciel, on vuit clairement
+que les nombre dela derniere colonne sont assujettis a une periodicite 33-
+333113 dont le Minimum arrive dans les mois de Janvier et les deux Ma-
+
+xima en'Mai et en Aout. La marche de ces variations pourra dont etre
+representee par 13 formule
+
+m ÷a cos (nt-†- οι) &a
+
+et, d'apres ce que nous avons dit dans le precedent, il en doit resulter, en-
+tre autreS‚ une periodicite correspondante de la temperature, egale a
+
+A 00³²(nt-{- oe')=A-†-Acos(2 ret†2oe);
+(ὶόὺ proviendra necessairement aussi un accroissennent de la temperature
+moyenne de l’annee. Je n'ose pas decider si cette circonstance remarqua·
+ble est suffisante pour expliquer la haute temperature moyelme dont jouit
+13 Sandinavie relativement a d’autres contrees sous 13 meme parallele3 c'est
+du moins tres probable qu'elle doit y contribuer sa bonne part. Aussi ce
+qu’on attribue generalement a l'influence immediate d'une mer environ-
+
+nante‚ ne peut-il pas egalement bien s'expliquer comme effet indirect‚ par-
+
+ce que c'est la mer qui fournit cette couverture de nuages qui tempere le
+froid des hivers?
+
+Les nombres de la derniere colonne pourront etre representes par la
+sormule:
+
+(4). .. S, = 0,471-1-ο,1518.ςι·η (n. 311ο 4292046‘) Ἶ11111463 sin (n. 611ο ÷318⁰4')
+-μ 0,(1166 3η (η. 90⁰ ψ 64059').
+
+Pour faire voir combien les constantes de cette formule sont influencees
+par les inegalites des differentes annnees‚ je les ai calculees separement, pour
+chaque annee de la perinde 3311313, 31 consignees das le tableau suivant:
+
+ 
+

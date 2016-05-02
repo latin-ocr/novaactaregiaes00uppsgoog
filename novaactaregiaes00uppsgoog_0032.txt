@@ -1,0 +1,70 @@
+16
+
+Quoique il ne seroit pas impossible de satisfaire aux equations (23) et
+(3⁴) dans d’autres cas que ceux, que nous avons consideres jusqu'a pre-
+sent, il faut pourtant renoncer 3 l'idee de les enumeret touS. On doit se
+contenter d'en avoir fait connaitre ceux ‚ qui par leur simplicite sont les
+plus remarquableS. C'est pourquoi nous ne nous en occuperons point d’a-
+vantage, ne connaissant pas d’autres cas simplae, dans lesquels ces equa-
+
+tions sont naitableS.
+XVIII.
+
+La dependance mutuelle des equations (47) et (23) peut encore se faire voir
+d'une autre maniere, qu’il n'est pas sans interet de connaitre. Supposons en ef-
+
+fet, que (1 7) devienne integrable par un facteur, qui donne l’integrale suivante
+εγω -1- My'y -†- Ny² = Constante
+
+s, M et N etant des fonctions inconnues de x, qu ’il s 'agit de determinet.
+La differentiation donne
+
+foss ÷My)÷y'² (ε’ ÷M)÷y''y(M ÷2NJ÷N‘²y =0
+Pnisque l'equation (⁴7) multiplice avec son facteur doit coincider avec
+cette equation· -ci, on doit commencer par leur donner le meme coefficient
+de μ’. Cela fait voir que le facteur cherche doit etre
+2⁸31 ’4- M ,ν
+
+En effectuant la multiplication onfobtient
+
+y(2⁸y'÷My)÷²Jf²'²y ψὴῖἑΜῙΜγΗ-ᾹἌ ³¹² =0
+
+Cette equation devant etre identique avec 13 precedente donne les ega·
+lites suivantes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 ÷M=2Jf¹
+M'42N=²Jf¹÷·}'2M
+N'=J-⁰1.M ³ ³
+
+f³
+
+L'elimination de M et N donne ensuite
+
+0 ΞΛ* ε* - asans* ÷ {f20f1— ⁵f;› ÷f2(⁵f;÷ 2s2>}⁸›÷
+
+2 {fam-n) -ι- 2f;(f;÷f2>÷f2 fx —Jzefa ÷f2> —- ²s'f}f²1f-³-)} s
+
+d'on en sesant
+
+ 
+
+ε = Q . 02& dx
+on obtient l’equation (23).
+&effi—-
+
+ 
+
+ 
+

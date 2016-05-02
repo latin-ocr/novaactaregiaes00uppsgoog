@@ -1,0 +1,57 @@
+Je nommerai dans la suite cette equation (2) Ia caractdtietique de (1),
+parceque elle jouit des proprietes remarquables pour determiner ses cas
+
+d'integrabilite.
+11.
+
+L'equation (l) peut &tre transformee de differentes manieres sans chan-
+ger de forme. Puisque toutes ces transformees seront extremement utiles
+pour 13 recherche presente , nous commencerons par les etudier speciale-
+ment. Faisons pour cet effet
+
+pie
+y==z. ‹is-‘333
+
+y=bs÷ z'-1— mg)
+a
+
+μ’* ῗῖκΆΩκτξή-κζῇ-ὶ-ΒΞΨΞᾺ
+
+8
+
+ce qui donne
+
+La substitution effectuee on obtient apres avoir flivise par βξ
+
+φατ’-Ι-(Ωφ-Ι-φ.)ϊψῖβ-Ρφι-Ρρψφῗφὴκ-το · · · · (3)
+
+Ροιιι· que cette equation soit de la meme forme que (⁴), il est neces-
+saire que p soit une fonction entiere de ,τ du second degi-e et que
+
+p(p—4>g-†—4>2) soit divisible‘par φ ...... ⁸ . . . . (4)
+
+ 
+
+Cela peut se faire de differentes manieres ‚ entre lesquelles la suivante
+est 13 plus simple
+
+Ρ = φὲ - φ, ;
+esse donne
+,γειφνε-Ῐξέὲ ............... (5)
+Φεῖ”·1-(9Φῖι-Φ3)ἵ’-Ι-(Φέ-Φὲ-Ι-Φι)ῗ20 ······ (6)
+111.
+On peut encore satisfaire 3 13 condition (4) en sesant
+p = A . ..Z—:⁶ .............. (7)
+
+οι etant une des racines de l'equation
+
+4²³(2‘) = ⁰
+
+ 
+
+ 
+
+ 
+
+ 
+

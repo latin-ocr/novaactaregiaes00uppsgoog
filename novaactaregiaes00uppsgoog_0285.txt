@@ -1,0 +1,45 @@
+sun L’lNTssGRATloN DES EQUATIONS DIFFERENTOELLES
+Du ssscoND ORDRE.
+
+ 
+
+ἓ 1.
+soit proposiee l'kquation diffurentielle du second ordre
+ἐξ είς-ἐζ, ἐξ. ........... (1)
+
+01'1 f diesigne une. fonction quelconque, je commencerai par faire voir la
+possibilit& de ruduire cette &quation au premibr ordre. Pour cela je sais
+
+y=x z
+ce qui donne
+,ιζ-ἵ- = :2⁶² {34 222
+dx· da·
+
+Ξτᾼζ--ῑῖῗΞ-Ι-ιίχΞ-μῖκ
+
+au moyen de quoi l’e}quation (1) se transforme- en
+
+χῖιξέ-ξ-ιίῖέἒ-ξ-Ξκε] z, x{{† ἐκ)
+Cette dernibre &quation &tant ho'mogbne par rapport ἐι ,τ et dx, en la
+
+supposant satisfaite par l'e'equation &galement homogbne
+
+dz —p,
+
+——.-
+
+dx ,τ
+
+ou doit pouvoir &liminer ,τ et dx en mfzme tems, Or on trouve par diff&-
+rentiation
+
+ἐξ = ,1. &a .. Β,
+dx' xdz· ,τ
+οη bien, en substituant la valeur de dx: ’2-Ξὲ
+
+35
+
+ 
+
+ 
+

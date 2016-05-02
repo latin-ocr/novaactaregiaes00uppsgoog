@@ -1,0 +1,46 @@
+275
+
+d²y= 2n—n2 dy ..1-
+,rdsc
+
+Z-Z‘daeCd-g-J— 3-”y>f.({-'.')÷f (3). . . . (21)
+
+g ιο.
+
+ 
+
+Faisons maintenant
+kf<q v>=²—”‚-‚T—⁷L²q- -η--μφζφ-ῖ- v)
+
+au moyen de quoi l'equation (20) deviendra
+
+-deq-ss) ÷(q- 32) dv= pff„ υ)
+
+d'ou en sesant
+
+q-32=r ,
+on obtient
+mvrdr÷r¹g2lv'=4›('r‚ v)dv ........ (22)
+
+Cette &quat'ion est intiegrable quand φ(ν, v) est une fonction homogbne
+du second dbgr& de r et v, d’ofi l'on obtient une classe trbs &tendue (Γὸ-
+quations differentielles du second ordre, qui sont inffigrables.
+
+Si l’on multiplie l’dquation (22) par le facteur υὲἰ, ou pourra lui don-
+ner la forme
+
+(fist) = ἐπιψ, 22> ------- ‹2³›
+
+Cette (equation est intlegrable dans le cas de
+
+ψ(ν, v) =f(v>0 (ἐν)
+
+(Ιόίι l'on obtient une autre classe trbs &tendue ‹skquations diffbrentielles
+int&grables du second ordre.
+
+Si l'on a
+«Ην, v)=r²f1(v)-!-f2(v)
+l'daequation (23) donnera
+
+ζα. (21³ r)=v- '¹.r² s(v)dv÷v·÷ Ἄρθητι]
+

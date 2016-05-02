@@ -1,0 +1,69 @@
+190
+
+inegalites correspondanteS, dont la determination pourrait se faire de la
+meme maniere que nous avons employee pour les moyennes annuelleS.
+Maintenant‚ comme les consequences qui en resulteraient ne nous parais-
+sent pas d’une telle importance‚ qu'il vaudrait la peine de calculer les sor·
+
+mules pour tous les thermometres, je me borne 3 discuter les nombres
+deja donnees par les tables XXII et XXIII.
+
+Premierement je determine les erreurs moyennes de chacune des
+constantes a, b et c d’apres leur valeurs pour differentes ammes, ce qui
+donne la petite table suivante:
+
+Tab. XXIX. Eaanuns monzuns mes consumas.
+rontonn- a b c
+A δ A A ἕ
+a ιι paeda ss 3694 ss 03⁴9 ὲ οπο( ss 0349 ὲ oms ὲ ο,4 58
+- ι - Ι ss ⁰39⁵ ἑ, Quo ὲ 0‚332 ὲ 0‚407 ὲ 3468 ss 0,059
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+On voit par cette table que l'erreur moyenne d'une certaine con·
+stante decroit avec la profundent, et cela d’autant plus vite que la constante
+est d' un ordre plus haut.
+
+Mais comme les erreurs moyennes ainsi calculees ne repondent pas
+exactement aux moyennes des constantes α, b, c qui entrent dans les sor-
+mules (2), j’ai encore determine l'erreur moyenne de a en pax-tant de la
+sormule
+
+ 
+
+δῖ γαπ-Μ’
+
+δ” et δ’ signifiant les erreurs moyennes des constantes asina et ιιι-ωσι don·
+nees par les tables precedentes. Par un calcul semblable j’ai aussi obtenu
+les autres nombres contenus dans 13 table suivante:
+
+ 
+
+ 
+
+ 
+
+mauolt-rus a b , c
+Ι A δ A δ A ὃ
+a Qu pieds ὲ 0,.514 ὲ 0,1182 ss 0,θόὁὸ ss 0,⁰228 ὲ 0,(’578 ss 0304
+- 4 — ὲ 0‚493 ss 0st 74 ss 0285 ss ΟΛ 01 ss 0‚218 ss 0‚077
+
+ 
+
+ 
+
+ 
+
+Cependant‚ l'erreur moyenne de a decroit d’apr'es cette table trop
+lentement‚ parce qu'elle est influencee par les anomalies des Epoques, les·
+quelles doivent se propaget dans l'interieur de 13 terre sans se diminuet
+sensiblement.
+

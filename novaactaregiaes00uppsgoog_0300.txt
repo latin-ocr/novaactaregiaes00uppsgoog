@@ -1,0 +1,52 @@
+276
+d'ofi, si l’on fait
+r²=8.v·:
+
+on obtient
+
+dS—-8.f1(v)c-IE= {v}¹f(v)dv
+
+Le facteur, qui rend cette &quation inffigrable, est
+
+·-²-ss1‹v›.ss
+
+e .-
+§ 11
+Considdrons enfin l'equation suivante
+ᾰῖ-3ζ- ..(d“’5)F “dy- dsffl’ R) ......
+3.
+
+ 
+
+οὺ pour ὺτίῥνεῐθ nous avons (1οείμὸ par
+as 2.. «ww-W
+R = «ἱππ
+
+Faisons maintenant dans (24)
+z=zSinu‚ ¹ y=qczSin(u-}-e)
+et soit ἐξ la nouvelle variable ind&pendante. Cela donne
+dxd²y —dycstz‘ = a Sine. du(zd²2— 2d22— z²du²)
+dS= oeSina.xsdz² -Ι- iid—zst
+R = &Sin ε . z
+
+xdy—-ydae = -η- &Sina z'du
+et l’t'zquation transsonne'e
+
+d²z dz
+
+z—--2 - 2—z²=
+
+oasin? g-l-z'JF( “2²²d‘} ²,affra-nm)
+
+Faisons ici
+
+ 
+
+ 
+
+ 
+
+ce qui donne
+
+ 
+

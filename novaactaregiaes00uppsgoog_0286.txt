@@ -1,0 +1,50 @@
+Ces valeurs de ‘ff- et ‘2²- substituees dans lequation precedente du
+
+dx εἰτ’
+second ordre donnent
+
+pd{†3p÷2z=f(z‚p p÷2z)
+Cette derniere equation peut encore etre simplifiee ‚ en sesant
+p -Ρ 2 2 = q
+et devient alors
+(q—2z)Z-{-†-q=f(z, q) ......... (⁵2)
+§ 2.
+
+Le meme resultat peut encore etre obtenu d'une autre mamere, que
+je crois utile d'indiquer ici.
+
+Pour transformer la variable independante il faut oommencer par mettre
+
+ 
+
+----—--d² ‘Py - ‘13‘AEae au lieu de Q
+ἅτ’ ‘lg-²
+L’equation (1) devient alors
+dxffly— ffdyfflx— εί “gi —d—
+,Υ ,T
+οὺ nous fei-ons la transformation
+x=t.e⁸‚ y=t.e²'¹
+
+et prendi-ons u pour la nouvelle variable independante. Or on trouve par
+differentiation
+
+dx ·= e· (dt -ι- tdu)
+
+d²x = e· (d²t÷ 2dt. du -ι- tdu²)
+
+dy = ε’· (dt -Ι- 2 tdu)
+
+<Py = 0²⁴¹ (ὧι -Ι- 4 dt. du -Ι- 4 tdu2)
+
+daed²y — dyd²ae = — 0³·(cd22 — 9 dt² — 3tdtdu — 2 edm)
+au moyen de quoi l'equation transformee devient
+
+stig—2 dt>²-3cd‘-2t²=—- clf-Ltys 1 tlt-{Aula
+— du' <
+
+‘lu' du t ’ t(dt÷ tdu)
+
+ 
+
+ 
+

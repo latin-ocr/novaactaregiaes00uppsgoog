@@ -1,0 +1,45 @@
+8
+
+Determinons maintenant P et η de maniere qu'on ait
+
+(2 P'fa -μ &m --f3 . Pd= ο ....... (18)
+,ρων ÷f2p÷fffl> = h ΛΡ ....... (w)
+
+Ιι etant une constante quelconque; on aura
+
+d’ou l’on tire par l'integration
+log η = sslogP-f—sf-JC‘E‘-
+et delii enfin ³
+η = P2. stist' ......... (2⁴)
+au moyen de quoi l'equation (19) deviendra
+
+Ριι . fisi-3?
+
+(sap ÷f2P' ÷f1P).- fa = h.
+
+ 
+
+Cette derniere equation differentee donne ensuite
+0 =f;1(1212*÷ 3 ΡΨ) 4- 3 f„ f² (Ριν-ι- ιν ²) -ι-
+{f³(f2' ÷ ⁴f1)†f2 (ΞΛ -f D} PF -Ρ (Αἴξ ÷ 2f2s1 -s3f1)1’²
+
+d'ou en sesant
+
+P = ρ ........... (22)
+¹¹ ”enm s}- Q⁶÷ 3f³f2 Q· ÷ {sm ÷ υς) ÷f2<2f2 -f;)}Q‘
+÷ 2 {f³f{÷f1(2f2—f;)}62 = 0 ------- (ω)
+
+11 suffit evidemment de connaitre une integrale particuliere de cette e-
+quation; oar (21) et (22) donneront des valeurs correspondantes de P et
+de η, lesquelles on pourra employer dans la substitution, qui donnera en-
+suite la transformee (20).
+
+X.
+Considerons d'abord le cas suivant
+
+fa Σὲ 3' ......... (24)
+
+Dans ce cas Ιέι l’equation (23) sera divisible par f³ et deviendra
+
+f³ <2024— {a Qq- esst ⁴f1>62¹÷ 2f1Q = 0 ------ ‹25›
+
